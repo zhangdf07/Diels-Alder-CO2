@@ -10,5 +10,5 @@ Additional details are provided in the scripts' comments.
 
 feature_final, model_final, and scaler_final are the finalized parameters that can be directly used.
 
-A data repository can be found via: [https://doi.org/10.6084/m9.figshare.24313807.v1](https://doi.org/10.6084/m9.figshare.24313807.v2 ) (or https://figshare.com/articles/dataset/Datasets_for_CO2_DA_paper/24313807)
-This contains the dataset of HOMO/LUMO energies used in this work, their energies and XYZ coordinates.
+A data repository can be found at: https://doi.org/10.6084/m9.figshare.24313807.v3 (or https://figshare.com/articles/dataset/Datasets_for_CO2_DA_paper/24313807) 
+This contains the dataset of HOMO/LUMO energies used in this work, their energies, and XYZ coordinates.
