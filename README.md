@@ -1,6 +1,6 @@
 # Diels_Alder_CO2
 Scripts to reproduce figures in CO2 Diels Alder paper: \
-Paper information: TBD
+Paper information: Computational Investigation of a CO2 Conversion Strategy via Diels–Alder Reaction in a Carbon Capture Solvent, ACS Omega 2025, 10, 22, 23663–23672 (https://pubs.acs.org/doi/10.1021/acsomega.5c02620 )
 
 Dataset_and_PCA: to create the dataset, and perform PCA analysis as needed in the older version. \
 Generate_new_diene: build new diene structures for computational screening. \
